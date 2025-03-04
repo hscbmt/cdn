@@ -1,3 +1,12 @@
+@font-face {
+    font-family: liAdorFont;
+    src: url(https://cdn.jsdelivr.net/gh/hscbmt/img@main/liador.ttf) format("truetype");
+    font-display: swap;
+    font-weight: 600;
+    font-style: semiBold
+}
+
+
 :root {
     --primary-color: #00A76F;
     --primary-dark: #007867;
@@ -13,7 +22,7 @@
 }
 
 body {
-    font-family: 'Inter', sans-serif;
+    font-family: 'liAdorFont','Inter', sans-serif;
     background-color: var(--background-light);
     transition: all 0.3s ease;
     padding-top: 80px;
