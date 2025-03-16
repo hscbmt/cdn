@@ -1,0 +1,180 @@
+{
+    "HospitalList": [
+        {
+            "id": "1",
+            "name": "ইসলামী ব্যাংক কমিনিটি হাসপাতাল",
+            "address": "রহমান রোড মানিকগন্জ",
+            "phone": "+8801817533724",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "2",
+            "name": "মানিকগন্জ সেন্ট্রাল স্পেশালাইজ্ড হাসপাতাল",
+            "address": "পৌরসুপার মার্কেট মানিকগন্জ",
+            "phone": "+8801789176311",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "3",
+            "name": "মানিকগঞ্জ এপোলো হাসপাতাল",
+            "address": "২নং নগর ভবন রোড মানিকগন্জ",
+            "phone": "+8801711076960",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "4",
+            "name": "মানিকগঞ্জ লাইফ কেয়ার হাসপাতাল",
+            "address": "রহমান রোড মানিকগন্জ",
+            "phone": "+8801904654501",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "5",
+            "name": "পদ্দা ডায়াগনিস্টিক সেন্টার",
+            "address": "শহিদ রফিক রোড মানিকগন্জ",
+            "phone": "+8801621671701",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "6",
+            "name": "দোয়েল মেডিকেল সেন্টার মানিকগন্জ",
+            "address": "বাস্ট্যান্ড মানিকগন্জ",
+            "phone": "+8801712632229",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "7",
+            "name": "মানিকগঞ্জ লাইফ কেয়ার হাসপাতাল",
+            "address": "রহমান রোড মানিকগন্জ",
+            "phone": "+8801904654501",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "8",
+            "name": "হেল্থ কেয়ার মেডিকেল সেন্টার",
+            "address": "ওয়্যারলেচগেট মানিকগন্জ",
+            "phone": "+8801924874409",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "9",
+            "name": "মমতাজ চখ্খু হাসপাতাল",
+            "address": "জয়রা রোড মানিকগন্জ",
+            "phone": "+8801839960895",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "10",
+            "name": "আজিশ জেনারেল হাসপাতাল",
+            "address": "কাজি মার্কেট সিংগাইর মানিকগন্জ",
+            "phone": "+880171166 0937",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": ""
+        },
+        {
+            "id": "11",
+            "name": "সিংগাইর ক্লিনিক এন্ড ডায়াগনিস্টিক সেন্টার",
+            "address": "সিংগাইর বাস্ট্যান্ড",
+            "phone": "+8801743485565",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "12",
+            "name": "সিটি হাসপাতাল এন্ড ডায়াগনিস্টিক সেন্টার",
+            "address": "মানিকগন্জ",
+            "phone": "+8801718514389",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "13",
+            "name": "কর্ণেল মালেক মেডিকেল কলেজ",
+            "address": "মানিকগন্জ বাস্ট্যান্ড",
+            "phone": "+8801711960552",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "14",
+            "name": "আল আবরার হাসপাতাল এন্ড ডায়াগনিস্টিক সেন্টার",
+            "address": "মানিকগন্জ সিটি সেন্টার ১৭ হাইরোড মানিকগন্জ",
+            "phone": "+8801789757999",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "15",
+            "name": "ডা: জোসেফ মেমোরিয়াল হাসপাতাল",
+            "address": "বানিয়াজুরি ঝিটকা হরিরামপুর রোড মানিকগন্জ",
+            "phone": "+8801304482245",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "16",
+            "name": "মুন্নু মেডিকেল কলেজ হাসপাতাল",
+            "address": "মুন্নু সিটি গিলন্দো মানিকগন্জ",
+            "phone": "+8801755559191",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "17",
+            "name": "মিডিল্যাব জেনারেল হাসপাতাল",
+            "address": "শহিদ রফিক সরক মানিকগন্জ",
+            "phone": "+8801766550685",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "18",
+            "name": "নুরজাহান জেনারেল হাসপাতাল",
+            "address": "জয়রা কলেজ রোড বাসস্ট্যান্ড মানিকগন্জ",
+            "phone": "+8801711518840",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "19",
+            "name": "হেল্থ কেয়ার মেডিকেল সেন্টার",
+            "address": "দীপ সুপার মার্কেট ২য় তলা ওয়্যার্লেচগেট মানিকগন্জ",
+            "phone": "+8801924874409",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "20",
+            "name": "নিউ স্কয়ার ক্লিনিক মানিকগন্জ",
+            "address": "মানিকগন্জ বাস্ট্যান্ড",
+            "phone": "+8801713572309",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "21",
+            "name": "লাইফ কেয়ার হাসপাতাল মানিকগন্জ",
+            "address": "শাহ খলিলুর রহমান রোড মানিকগন্জ",
+            "phone": "+8801904654501",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": null
+        },
+        {
+            "id": "22",
+            "name": "পেইন প্যারালাইসিস স্পেশালাইজড হাসপাতাল 1",
+            "address": "৩৬/১ শহিদ সরনি রোড মানিকগন্জ",
+            "phone": "+8801790162885",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_hospital.png",
+            "mapLink": ""
+        }
+    ]
+}
