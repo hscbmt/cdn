@@ -1,0 +1,34 @@
+{
+    "DonorsList": [
+        {
+            "id": "1",
+            "name": "মো: সেলিম খান",
+            "age": "২৫ বছর",
+            "bloodGroup": "O-V",
+            "gender": "Male",
+            "address": "ঘিওর উপজেলা",
+            "phone": "01619200438",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_blood.png"
+        },
+        {
+            "id": "2",
+            "name": "মো: রিদয় আহাম্মেদ",
+            "age": "২১ বছর",
+            "bloodGroup": "A+",
+            "gender": "Male",
+            "address": "কাশিমনগর সিংগাইর মানিকগন্জ",
+            "phone": "01305794779",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_blood.png"
+        },
+        {
+            "id": "3",
+            "name": "মো: আবির হাসান আলিফ",
+            "age": "২0 বছর",
+            "bloodGroup": "0+",
+            "gender": "Male",
+            "address": "শিবালয় মহাদেবপুর",
+            "phone": "01827077515",
+            "imageUrl": "https://cdn.jsdelivr.net/gh/hscbmt/ic@main/ic_blood.png"
+        }
+    ]
+}
